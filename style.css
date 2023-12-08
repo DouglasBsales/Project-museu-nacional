@@ -372,7 +372,7 @@ nav.mobile-menu ul li a:hover{
     }
 
     .conteudo-2{
-            display: none;
+        display: none;
     }
     
     nav .icon .icon1{
@@ -406,6 +406,10 @@ nav.mobile-menu ul li a:hover{
 
     }
 
+    main .conteudo{
+        background-size: auto;
+    }
+
     .container-1 .conteudo{
         position: relative; 
         top: 20px;
@@ -413,7 +417,7 @@ nav.mobile-menu ul li a:hover{
 
     .container-2{
         position: relative;
-        top: -600px;
+        top: -800px;
     }
 
     .content-2{
